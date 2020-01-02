@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1577974292 source:e:\work space\code blocks\sprints wave 7\spi & uart challenge\stateestimator_ecu\app\statemachine\statemachine.c
+	"StateMachine.h"
+	"softwareDelay.h"
+
+1577389890 source:e:\work space\code blocks\sprints wave 7\spi & uart challenge\stateestimator_ecu\commons\softwaredelay\softwaredelay.c
+	"softwareDelay.h"
+
+1577563293 e:\work space\code blocks\sprints wave 7\spi & uart challenge\stateestimator_ecu\commons\softwaredelay\softwaredelay.h
+	"std_types.h"
+
+1577108556 e:\work space\code blocks\sprints wave 7\spi & uart challenge\stateestimator_ecu\commons\std_types.h
+
+1577617505 source:e:\work space\code blocks\sprints wave 7\spi & uart challenge\stateestimator_ecu\fuse.c
+	<avr/io.h>
+
+1577974740 source:e:\work space\code blocks\sprints wave 7\spi & uart challenge\stateestimator_ecu\main.c
+	"StateMachine.h"
+
+1577681390 e:\work space\code blocks\sprints wave 7\spi & uart challenge\stateestimator_ecu\app\statemachine\statemachine.h
+	"UART.h"
+	"SPI.h"
+	"Timer.h"
+	"ExternalInterrupt.h"
+	"common_macros.h"
+	"std_types.h"
+	"BTN.h"
+
+1577483073 source:e:\work space\code blocks\sprints wave 7\spi & uart challenge\stateestimator_ecu\mcal\dio\dio.c
+	"DIO.h"
+	"registers.h"
+
+1577457340 e:\work space\code blocks\sprints wave 7\spi & uart challenge\stateestimator_ecu\mcal\dio\dio.h
+	"std_types.h"
+
+1577620892 e:\work space\code blocks\sprints wave 7\spi & uart challenge\stateestimator_ecu\commons\registers.h
+	"std_types.h"
+
+1577974232 source:e:\work space\code blocks\sprints wave 7\spi & uart challenge\stateestimator_ecu\mcal\external interrupt\externalinterrupt.c
+	"ExternalInterrupt.h"
+	"std_types.h"
+	"DIO.h"
+	"registers.h"
+	"interrupt.h"
+
+1577397437 e:\work space\code blocks\sprints wave 7\spi & uart challenge\stateestimator_ecu\mcal\external interrupt\externalinterrupt.h
+	"std_types.h"
+	"common_macros.h"
+
+1577108561 e:\work space\code blocks\sprints wave 7\spi & uart challenge\stateestimator_ecu\commons\common_macros.h
+
+1575889180 e:\work space\code blocks\sprints wave 7\spi & uart challenge\stateestimator_ecu\commons\interrupt.h
+	"registers.h"
+
+1577698049 source:e:\work space\code blocks\sprints wave 7\spi & uart challenge\stateestimator_ecu\mcal\spi\spi.c
+	"SPI.h"
+	"common_macros.h"
+	"std_types.h"
+	"interrupt.h"
+	"DIO.h"
+
+1577556868 e:\work space\code blocks\sprints wave 7\spi & uart challenge\stateestimator_ecu\mcal\spi\spi.h
+	"std_types.h"
+	"interrupt.h"
+
+1577974292 source:e:\work space\code blocks\sprints wave 7\spi & uart challenge\stateestimator_ecu\mcal\timers\timer.c
+	"Timer.h"
+	"registers.h"
+	"DIO.h"
+	"std_types.h"
+	"common_macros.h"
+	"interrupt.h"
+
+1577533708 e:\work space\code blocks\sprints wave 7\spi & uart challenge\stateestimator_ecu\mcal\timers\timer.h
+	"std_types.h"
+
+1577617212 e:\work space\code blocks\sprints wave 7\spi & uart challenge\stateestimator_ecu\mcal\uart\uart.h
+	"std_types.h"
+	"common_macros.h"
+	"interrupt.h"
+	"registers.h"
+
+1577974370 source:e:\work space\code blocks\sprints wave 7\spi & uart challenge\stateestimator_ecu\mcal\uart\uart.c
+	"UART.h"
+	"Dio.h"
+	"std_types.h"
+	"common_macros.h"
+	"interrupt.h"
+	"registers.h"
+
+1577624262 e:\work space\code blocks\sprints wave 7\spi & uart challenge\stateestimator_ecu\ecual\push_button\btn.h
+	"std_types.h"
+
+1577974436 source:e:\work space\code blocks\sprints wave 7\spi & uart challenge\stateestimator_ecu\ecual\push_button\btn.c
+	"Dio.h"
+	"BTN.h"
+
